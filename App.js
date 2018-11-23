@@ -1,7 +1,12 @@
 import React from 'react';
 import { Platform, StatusBar, StyleSheet, View } from 'react-native';
 import { AppLoading, Asset, Font, Icon } from 'expo';
+// import Expo from 'expo';
 import AppNavigator from './navigation/AppNavigator';
+
+/*
+added by npm: https://github.com/vonovak/react-navigation-header-buttons.git // handling blutooth package management
+*/
 
 export default class App extends React.Component {
   state = {

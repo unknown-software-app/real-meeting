@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "RealMeeting",
-    "description": "A very interesting project.",
+    "description": "meeting",
     "slug": "RealMeeting",
     "privacy": "public",
     "sdkVersion": "31.0.0",
